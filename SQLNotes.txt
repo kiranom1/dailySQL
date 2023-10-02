@@ -503,7 +503,7 @@ https://www.freecodecamp.org/news/the-ultimate-guide-to-sql-join-statements/
 
 techTFQ
 https://www.youtube.com/watch?v=dWHSt0BVlv0 
-Practice SQL Interview Query | Big 4 Interview Question [/14.46]
+Practice SQL Interview Query | Big 4 Interview Question [0.0/14.46]
 https://www.youtube.com/watch?v=ZwFfiadQB3k
 SQL Interview Query for Data Analyst [2.21/29.50]
 
