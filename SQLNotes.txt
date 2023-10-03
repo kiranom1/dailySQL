@@ -424,27 +424,10 @@ FROM tblEmployee LEFT JOIN tblEmployeeAddress
 ;
 
 
-techTFQ [Practical: 11.05 Only watched: 15/1.10.28]
+techTFQ [Practical: 11.08 Only watched: 15/1.10.28]
 https://www.youtube.com/watch?v=Hl4NZB1XR9c&t=1602s 
 SQL Basics Tutorial for Beginners (Practice SQL Queries)
 
-CREATE TABLE IF NOT EXISTS "tblSTAFF"
-(
-  "staff_id" varchar(20)
-, "staff_type" varchar(30)
-, "school_id" varchar(20)
-, "name" varchar(95)
-, "surname" varchar(95)
-, "age" integer
-, "date_of_birth" date
-, "date_of_joining" date
-, "gender" varchar(10) CHECK("gender" IN ('M', 'F', 'Male', 'Female'))
-, "address_id" varchar(20)
-, constraint pk_staff PRIMARY KEY("staff_id")
---, constraint fk_staff_school FOREIGN KEY("school_id") REFERENCES "tblSCHOOL"("school_id")
---, constraint fk_staff_address FOREIGN KEY("address_id") REFERENCES "tblADDRESS"("address_id")
-)
-;
 
 
 /*
@@ -470,20 +453,21 @@ The SQL Handbook – A Free Course for Web Developers
   
   SQLite vs PostgreSQL:
     SQLite: Serverless DBMS that runs w/i application(s)
-
     PostgreSQL: Client-Server model that requires server to be installed and listening
                 on a network, similar to an HTTP-server
   
-  *SQL Tables
-    'CREATE TABLE' statement:
+*SQL Tables
+  'CREATE TABLE' statement:
            
-
-Read from: How to use the CREATE TABLE statement
+Next read from: How to use the CREATE TABLE statement
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
     relational databases
-  Next read from: How to Install MySQL
+
+  *SQL Keywords
+Next read from: ADD -- Adds a new column to an existing table
+
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
 Mastering SQL for Web Developers – Full Course
