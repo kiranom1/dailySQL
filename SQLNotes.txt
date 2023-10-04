@@ -457,16 +457,18 @@ The SQL Handbook – A Free Course for Web Developers
                 on a network, similar to an HTTP-server
   
 *SQL Tables
-  'CREATE TABLE' statement:
+  'CREATE TABLE' statement: Used to create a table
            
-Next read from: How to use the CREATE TABLE statement
+Next read from: CREATE TABLE employees(
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
     relational databases
 
   *SQL Keywords
-Next read from: ADD -- Adds a new column to an existing table
+    ADD
+    ADD CONSTRAINT
+Next read from: ADD -- ALTER TABLE -- Adds,
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
