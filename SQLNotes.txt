@@ -458,8 +458,10 @@ The SQL Handbook – A Free Course for Web Developers
   
 *SQL Tables
   'CREATE TABLE' statement: Used to create a table
+
+  One example practice executed.
            
-Next read from: CREATE TABLE employees(
+Next read from: How to Alter Tables
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
@@ -468,7 +470,8 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   *SQL Keywords
     ADD
     ADD CONSTRAINT
-Next read from: ADD -- ALTER TABLE -- Adds,
+    ALTER TABLE, ALTER COLUMN
+Next read from: ALL -- Returns true
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
@@ -490,8 +493,8 @@ https://www.freecodecamp.org/news/the-ultimate-guide-to-sql-join-statements/
 techTFQ
 https://www.youtube.com/watch?v=dWHSt0BVlv0 
 Practice SQL Interview Query | Big 4 Interview Question [10.0/14.46]
-https://www.youtube.com/watch?v=ZwFfiadQB3k
-SQL Interview Query for Data Analyst [2.21/29.50]
+https://www.youtube.com/watch?v=ZwFfiadQB3k "SchoolsAnnualExam.sql"
+SQL Interview Query for Data Analyst [3.50/29.50]
 
 Tech Classes [/1.07.21]
 https://www.youtube.com/watch?v=obJZ1rB7TKc Data Analysis End-to-End Project for 
