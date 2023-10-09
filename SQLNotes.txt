@@ -455,13 +455,23 @@ The SQL Handbook – A Free Course for Web Developers
     SQLite: Serverless DBMS that runs w/i application(s)
     PostgreSQL: Client-Server model that requires server to be installed and listening
                 on a network, similar to an HTTP-server
+                [[By default, the Postgresql database listens on port 5432. If you want 
+                  to change this port, you must edit the PGPORT environment variable in /etc/rc. d/init.
+                  https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cucm/im_presence/database_setup/10_5_2/
+                  CUP0_BK_D4BFFAC9_00_database-setup-guide-imp-1052/CUP0_BK_D4BFFAC9_00_database-setup-guide-imp-1052_chapter_01.pdf
+
+                  The default HTTP and HTTPS ports for the Web server are port 80 and 443, respectively.
+                  https://docs.oracle.com/cd/B40099_02/books/SiebInstWIN/SiebInstCOM_InstSWSE19.html#:~:text=the%20Web%20Server.-,
+                  The%20default%20HTTP%20and%20HTTPS%20ports%20for%20the%20Web,port%2080%20and%20443%2C%20respectively.
+
+                ]]
   
 *SQL Tables
   'CREATE TABLE' statement: Used to create a table
 
-  One example practice executed.
+  One+ example practice executed.
            
-Next read from: How to Alter Tables
+Next read from: ADD or DROP a column, which you can do like this
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
@@ -471,7 +481,10 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
     ADD
     ADD CONSTRAINT
     ALTER TABLE, ALTER COLUMN
-Next read from: ALL -- Returns true
+    ALL
+    AND
+    ANY
+Next read from: AS -- Renames a table
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
@@ -491,7 +504,7 @@ https://www.freecodecamp.org/news/the-ultimate-guide-to-sql-join-statements/
 
 
 techTFQ
-https://www.youtube.com/watch?v=dWHSt0BVlv0 
+https://www.youtube.com/watch?v=dWHSt0BVlv0 "ProductSalesIncrementingAnnually.sql" 
 Practice SQL Interview Query | Big 4 Interview Question [10.0/14.46]
 https://www.youtube.com/watch?v=ZwFfiadQB3k "SchoolsAnnualExam.sql"
 SQL Interview Query for Data Analyst [3.50/29.50]
