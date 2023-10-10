@@ -424,7 +424,7 @@ FROM tblEmployee LEFT JOIN tblEmployeeAddress
 ;
 
 
-techTFQ [Practical: 11.08 Only watched: 15/1.10.28]
+techTFQ [Practical: 11.45 Only watched: 15/1.10.28]
 https://www.youtube.com/watch?v=Hl4NZB1XR9c&t=1602s 
 SQL Basics Tutorial for Beginners (Practice SQL Queries)
 
@@ -484,7 +484,21 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
     ALL
     AND
     ANY
-Next read from: AS -- Renames a table
+    AS
+    ASC
+    BETWEEN
+    CASE
+    CHECK
+    CREATE DATABASE
+    CREATE TABLE
+    DEFAULT
+    DESC
+    DROP COLUMN
+    DROP DATABASE
+    DROP DEFAULT --Removes the default value for a column
+    DROP TABLE
+
+Next read from: EXISTS -- Checks for the existenc
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
@@ -505,7 +519,7 @@ https://www.freecodecamp.org/news/the-ultimate-guide-to-sql-join-statements/
 
 techTFQ
 https://www.youtube.com/watch?v=dWHSt0BVlv0 "ProductSalesIncrementingAnnually.sql" 
-Practice SQL Interview Query | Big 4 Interview Question [10.0/14.46]
+Practice SQL Interview Query | Big 4 Interview Question [Watched-14.46]
 https://www.youtube.com/watch?v=ZwFfiadQB3k "SchoolsAnnualExam.sql"
 SQL Interview Query for Data Analyst [3.50/29.50]
 
