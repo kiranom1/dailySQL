@@ -31,3 +31,14 @@ CREATE TABLE IF NOT EXISTS "tblAddress"
   , "country" varchar(98)
 )
 ;
+
+DROP TABLE IF EXISTS "tblSchool" CASCADE
+;
+CREATE TABLE IF NOT EXISTS "tblSchool"
+(
+	  "school_id" character varying(18)
+	, "school_name" varchar(95)
+	, "education_board" varchar(80)
+	, "address_id" varchar(20)
+)
+;
