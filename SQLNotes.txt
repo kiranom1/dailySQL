@@ -468,10 +468,19 @@ The SQL Handbook – A Free Course for Web Developers
   
 *SQL Tables
   'CREATE TABLE' statement: Used to create a table
-
   One+ example practice executed.
+
+  **Intro to Migrations
+  Migration = Set of changes to a relational-DB Eg. ALTER TABLE statements
+    Good migrations = Small, Incremental, Reversible changes to a DB
+  
+  **SQL Data types
+  **SQLite Data types:
+    NULL - Null value
+    integer - Signed integer stored in 0, 1, 2, 3, 4, 6, or 8 bytes
+
            
-Next read from: ADD or DROP a column, which you can do like this
+Next read from: REAL - Floating point valu
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
@@ -495,10 +504,21 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
     DESC
     DROP COLUMN
     DROP DATABASE
-    DROP DEFAULT --Removes the default value for a column
+    DROP DEFAULT --Removes the default value for a column --Refer example in the "pracSQL.sql"
     DROP TABLE
+    FROM
+    IN
+    INSERT INTO
+    IS NULL
+    IS NOT NULL
+    LIKE
+    NOT
+    OR
+    ORDER BY
+    ROWNUM --Returns results where the row number meets the passed condition
 
-Next read from: EXISTS -- Checks for the existenc
+
+Next read from: EXISTS -- SELECT -- Used to select data from a datab
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
@@ -521,7 +541,7 @@ techTFQ
 https://www.youtube.com/watch?v=dWHSt0BVlv0 "ProductSalesIncrementingAnnually.sql" 
 Practice SQL Interview Query | Big 4 Interview Question [Watched-14.46]
 https://www.youtube.com/watch?v=ZwFfiadQB3k "SchoolsAnnualExam.sql"
-SQL Interview Query for Data Analyst [3.50/29.50]
+SQL Interview Query for Data Analyst [5.24/29.50]
 
 Tech Classes [/1.07.21]
 https://www.youtube.com/watch?v=obJZ1rB7TKc Data Analysis End-to-End Project for 
@@ -555,7 +575,6 @@ Complete SQL Course For Data Science | SQL For Data Science in 6 Hrs
 
 
 https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-foreign-key/
-https://www.postgresql.org/download/
 https://en.wikipedia.org/wiki/PostgreSQL
 https://www.postgresql.org/docs/current/datatype.html
 
