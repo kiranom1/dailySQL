@@ -478,9 +478,13 @@ The SQL Handbook – A Free Course for Web Developers
   **SQLite Data types:
     NULL - Null value
     integer - Signed integer stored in 0, 1, 2, 3, 4, 6, or 8 bytes
+    real - Floating point value stored as an 64-bit IEEE floating-point-number
+      [[Institute of Electrical and Electronic Engineers]]
+    text - Text-string stored using database-encoding such as UTF-8
+      [[Unicode Transformation Format]]
 
            
-Next read from: REAL - Floating point valu
+Next read from: BLOB - 
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
@@ -516,9 +520,12 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
     OR
     ORDER BY
     ROWNUM --Returns results where the row number meets the passed condition
+    SELECT
+    SELECT DISTINCT
 
 
-Next read from: EXISTS -- SELECT -- Used to select data from a datab
+
+Next read from: SELECT INTO -- 
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
