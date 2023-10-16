@@ -485,7 +485,7 @@ The SQL Handbook – A Free Course for Web Developers
     BLOB [Binary Large OBjects]- Used for multimedia [image+audio]
 
   **Boolean values
-  
+
            
 Next read from: It's important to note 
 
@@ -551,10 +551,25 @@ https://www.freecodecamp.org/news/the-ultimate-guide-to-sql-join-statements/
 
 
 techTFQ
-https://www.youtube.com/watch?v=dWHSt0BVlv0 "ProductSalesIncrementingAnnually.sql" 
-Practice SQL Interview Query | Big 4 Interview Question [Watched-14.46]
+https://www.youtube.com/watch?v=W5Wvyc9Pass&t=29s "Elections.sql"
+3 SQL Queries Asked in Interview for Business Analyst - Solved [2.32/36.26]
+
 https://www.youtube.com/watch?v=ZwFfiadQB3k "SchoolsAnnualExam.sql"
 SQL Interview Query for Data Analyst [14.30/29.50]
+
+https://www.youtube.com/watch?v=nzJJP-uDIZc
+Solving an SQL Interview Problem | Find Child - Parent - Grandparent Hierarchy using SQL [/13.46]
+https://www.youtube.com/watch?v=HiscSRv7zWk
+Solving a Real SQL Interview Problem | Job Vacancies SQL Query [/16.56]
+https://www.youtube.com/watch?v=jS5_hjFgfzA
+Solving SQL Interview Query for Data Analyst asked by a Product based company [/18.36]
+https://www.youtube.com/watch?v=6UAU79FNBjQ
+Solving a tricky SQL Interview Query [/19.23]
+
+
+https://www.youtube.com/watch?v=dWHSt0BVlv0 "ProductSalesIncrementingAnnually.sql" 
+Practice SQL Interview Query | Big 4 Interview Question [Watched-14.46]
+
 
 Tech Classes [/1.07.21]
 https://www.youtube.com/watch?v=obJZ1rB7TKc Data Analysis End-to-End Project for 
