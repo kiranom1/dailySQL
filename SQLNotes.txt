@@ -482,9 +482,12 @@ The SQL Handbook – A Free Course for Web Developers
       [[Institute of Electrical and Electronic Engineers]]
     text - Text-string stored using database-encoding such as UTF-8
       [[Unicode Transformation Format]]
+    BLOB [Binary Large OBjects]- Used for multimedia [image+audio]
 
+  **Boolean values
+  
            
-Next read from: BLOB - 
+Next read from: It's important to note 
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
@@ -522,10 +525,13 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
     ROWNUM --Returns results where the row number meets the passed condition
     SELECT
     SELECT DISTINCT
+    SELECT INTO --Copies data from one table and inserts it into another
+    SELECT TOP --Returns top-set-number of records from a table
+    SET
 
 
 
-Next read from: SELECT INTO -- 
+Next read from: TRUNCATE TABLE - 
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
