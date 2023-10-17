@@ -424,10 +424,10 @@ FROM tblEmployee LEFT JOIN tblEmployeeAddress
 ;
 
 
-techTFQ [Practical: 11.45 Only watched: 15/1.10.28]
+techTFQ [Practical: 14.45 Only watched: 15/1.10.28]
 https://www.youtube.com/watch?v=Hl4NZB1XR9c&t=1602s 
 SQL Basics Tutorial for Beginners (Practice SQL Queries)
-
+Practiced in "C:\Users\Administrator\dailySQL\SELECT.sql"
 
 
 /*
