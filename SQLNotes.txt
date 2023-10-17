@@ -485,9 +485,14 @@ The SQL Handbook – A Free Course for Web Developers
     BLOB [Binary Large OBjects]- Used for multimedia [image+audio]
 
   **Boolean values
+    In SQLite, boolean-values are stored as integers either 0 [false] or 1[true]
+    In SQLite, one could boolean-expressions using 'true' and 'false' keywords but ultimately
+                it will convert the booleans to integers
+
+*Constraints
 
            
-Next read from: It's important to note 
+Next read from: A constraint is a rule 
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
@@ -528,10 +533,20 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
     SELECT INTO --Copies data from one table and inserts it into another
     SELECT TOP --Returns top-set-number of records from a table
     SET
+    TRUNCATE TABLE --This deletes only data and not the entire table as opposed 
+      to 'DROP TABLE'
+    UNION --Combines the results from two or mor SELECT statements and returns only distinct-values
+    UNION ALL --Same as UNION, but includes duplicate values
+    UNIQUE --Ensures all values in a column are unique
+    UPDATE
+    VALUES
+    WHERE
+
+  *Comments in SQL
 
 
 
-Next read from: TRUNCATE TABLE - 
+Next read from:  
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
