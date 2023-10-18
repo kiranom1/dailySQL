@@ -490,9 +490,10 @@ The SQL Handbook – A Free Course for Web Developers
                 it will convert the booleans to integers
 
 *Constraints
+  Eg. NOT NULL constraint ensures that the column will not accept NULL values
 
            
-Next read from: A constraint is a rule 
+Next read from: SQLite limitation 
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
@@ -543,10 +544,12 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
     WHERE
 
   *Comments in SQL
+    Single-line- -- Multi-line /*  */
+
+  *Data Types in MySQL
 
 
-
-Next read from:  
+Next read from:  Data Types in MySQL
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
