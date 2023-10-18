@@ -56,3 +56,37 @@ CREATE TABLE IF NOT EXISTS "tblEmployees16"
 	, "salary" integer
 )
 ;
+
+
+CREATE SEQUENCE IF NOT EXISTS "sq4"
+	start 300
+	increment 2
+;
+CREATE TABLE IF NOT EXISTS "tblEmployees4"
+(
+	  "mainHeading" text NOT NULL
+	, "id" integer PRIMARY KEY DEFAULT nextval('"sq4"')
+	, "name" text
+)
+;  
+
+/*
+postgres=# \d+ "sq4"
+                            Sequence "public.sq4"
+  Type  | Start | Minimum |       Maximum       | Increment | Cycles? | Cache
+--------+-------+---------+---------------------+-----------+---------+-------
+ bigint |   300 |       1 | 9223372036854775807 |         2 | no      |     1
+
+
+postgres=# \d+ "tblEmployees4"
+                                                 Table "public.tblEmployees4"
+   Column    |  Type   | Collation | Nullable |         Default          | Storage  | Compression | Stats target | Description
+-------------+---------+-----------+----------+--------------------------+----------+-------------+--------------+-------------
+ mainHeading | text    |           | not null |                          | extended |             |              |
+ id          | integer |           | not null | nextval('sq4'::regclass) | plain    |             |              |
+ name        | text    |           |          |                          | extended |             |              |
+Indexes:
+    "tblEmployees4_pkey" PRIMARY KEY, btree (id)
+Access method: heap
+*/
+
