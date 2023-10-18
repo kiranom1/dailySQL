@@ -631,3 +631,19 @@ https://www.youtube.com/watch?v=76CmZiwkq7U Docker and Kubernetes Online Trainin
 */
 
 alias cgs='"C:/Users/Administrator/fileTransferSQL.sh"'
+
+Certification course(s):
+https://www.linkedin.com/posts/iamarifalam_if-i-were-to-start-learning-sql-i-will-activity-7120300060126384128-BuNi?utm_source=share&utm_medium=member_desktop
+
+IBM-Offered-SQL-Course:
+https://lnkd.in/dGNDviUr
+Public Username-kiranom or Sign-in w/ Linkedin @ https://cognitiveclass.ai/
+IBM DB0101EN
+SQL and Relational Databases 101
+
+Module1 - Introduction to SQL and Relational Database 101 (2.54/5:05)
+SQL is also referred to as SEQUEL [i.e. Structured English QUEry Language]
+Data = Facts [Words+Numbers]
+Database = Data-Repository
+Data is stored in tabular-form [rows+columns] and data stored in tabular-form is 
+  a relational-database
