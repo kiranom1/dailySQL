@@ -486,14 +486,22 @@ The SQL Handbook – A Free Course for Web Developers
 
   **Boolean values
     In SQLite, boolean-values are stored as integers either 0 [false] or 1[true]
-    In SQLite, one could boolean-expressions using 'true' and 'false' keywords but ultimately
+    In SQLite, one could write boolean-expressions using 'true' and 'false' keywords but ultimately
                 it will convert the booleans to integers
 
 *Constraints
   Eg. NOT NULL constraint ensures that the column will not accept NULL values
 
+  **SQLite limitation
+      In SQLite, constraints can b created while creating the table itself unlike 
+      'ALTER TABLE ADD CONSTRAINT' in other dialects of SQL
+
+      ***Primary Key [PK] Constraint-
+          A Primary-Key is a column that uniquely identifies records w/i a table
+          Each table can have only one PK
+
            
-Next read from: SQLite limitation 
+Next read from:  Your primary key will
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
@@ -547,9 +555,10 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
     Single-line- -- Multi-line /*  */
 
   *Data Types in MySQL
+    One eg. practiced "pracSQL.sql"
 
 
-Next read from:  Data Types in MySQL
+Next read from:  1. String Data Types
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
