@@ -582,7 +582,7 @@ https://www.youtube.com/watch?v=W5Wvyc9Pass&t=29s "Elections.sql"
 3 SQL Queries Asked in Interview for Business Analyst - Solved [2.32/36.26]
 
 https://www.youtube.com/watch?v=ZwFfiadQB3k "SchoolsAnnualExam.sql"
-SQL Interview Query for Data Analyst [14.30/29.50]
+SQL Interview Query for Data Analyst [Practical 14.30 Watched 22.30/29.50]
 
 https://www.youtube.com/watch?v=nzJJP-uDIZc
 Solving an SQL Interview Problem | Find Child - Parent - Grandparent Hierarchy using SQL [/13.46]
