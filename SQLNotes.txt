@@ -499,9 +499,10 @@ The SQL Handbook – A Free Course for Web Developers
       ***Primary Key [PK] Constraint-
           A Primary-Key is a column that uniquely identifies records w/i a table
           Each table can have only one PK
+          Commonly, "id" column is the primary-key for that table
 
            
-Next read from:  Your primary key will
+Next read from:  A PRIMARY KEY constraint can be explicitly
 
 https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   SQL [Structured Query Language] outlines syntax that allows to write queries that manage
@@ -557,8 +558,13 @@ https://www.freecodecamp.org/news/learn-sql-in-10-minutes/
   *Data Types in MySQL
     One eg. practiced "pracSQL.sql"
 
+    1 String Data types
+      char(size) - <size> specifies maximum string length- default1 min0 max255
+      binary(size) - Similar to 'char', but stores binary-byte-strings
+        [In PostgreSQL, 'bytea' is used to store binary-data] --One eg. practiced "pracSQL.sql"
+      varchar(size) - Min0 Max65535
 
-Next read from:  1. String Data Types
+Next read from:  VARBINARY(size) -- Similar
 
 
 https://www.freecodecamp.org/news/sql-for-web-devs/
@@ -650,9 +656,11 @@ Public Username-kiranom or Sign-in w/ Linkedin @ https://cognitiveclass.ai/
 IBM DB0101EN
 SQL and Relational Databases 101
 
-Module1 - Introduction to SQL and Relational Database 101 (2.54/5:05)
+Module1 - Introduction to SQL and Relational Database 101 (4.07/5:05)
 SQL is also referred to as SEQUEL [i.e. Structured English QUEry Language]
 Data = Facts [Words+Numbers]
 Database = Data-Repository
 Data is stored in tabular-form [rows+columns] and data stored in tabular-form is 
   a relational-database
+RDBMS [Relational DataBase Management System]
+
