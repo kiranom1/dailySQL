@@ -579,7 +579,7 @@ https://www.freecodecamp.org/news/the-ultimate-guide-to-sql-join-statements/
 
 techTFQ
 https://www.youtube.com/watch?v=W5Wvyc9Pass&t=29s "Elections.sql"
-3 SQL Queries Asked in Interview for Business Analyst - Solved [5.00/36.26]
+3 SQL Queries Asked in Interview for Business Analyst - Solved [8.00/36.26]
 
 https://www.youtube.com/watch?v=ZwFfiadQB3k "SchoolsAnnualExam.sql"
 SQL Interview Query for Data Analyst [Practical 14.30 Watched 22.30/29.50]
