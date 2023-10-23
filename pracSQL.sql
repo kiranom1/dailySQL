@@ -90,3 +90,19 @@ Indexes:
 Access method: heap
 */
 
+CREATE SEQUENCE IF NOT EXISTS "sq1"
+	start 301
+	increment 3
+;
+CREATE TABLE IF NOT EXISTS "tblCustomers1"
+(
+	  "id" integer PRIMARY KEY DEFAULT nextval('"sq1"')
+	, "firstName" varchar(250)
+)
+; 
+
+CREATE TABLE IF NOT EXISTS "tblBinry"
+(
+	"binaryStr" bytea
+)
+;
