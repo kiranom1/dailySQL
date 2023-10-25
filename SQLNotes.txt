@@ -656,11 +656,14 @@ Public Username-kiranom or Sign-in w/ Linkedin @ https://cognitiveclass.ai/
 IBM DB0101EN
 SQL and Relational Databases 101
 
-Module1 - Introduction to SQL and Relational Database 101 (4.07/5:05)
-SQL is also referred to as SEQUEL [i.e. Structured English QUEry Language]
-Data = Facts [Words+Numbers]
-Database = Data-Repository
-Data is stored in tabular-form [rows+columns] and data stored in tabular-form is 
-  a relational-database
-RDBMS [Relational DataBase Management System]
+Module1 - SQL and Relational Databases 101
+*Introduction to SQL and Relational Database 101 (4.07/5:05)
+  SQL is also referred to as SEQUEL [i.e. Structured English QUEry Language]
+  Data = Facts [Words+Numbers]
+  Database = Data-Repository
+  Data is stored in tabular-form [rows+columns] and data stored in tabular-form is 
+    a relational-database
+  RDBMS [Relational DataBase Management System]
+
+*Information and Data Models [1.01/5.44]
 
