@@ -665,10 +665,14 @@ Module1 - SQL and Relational Databases 101
     a relational-database
   RDBMS [Relational DataBase Management System]
 
-*Information and Data Models [2.08/5.44]
+*Information and Data Models [5/5.44]
   Type of Information-model:
     Hierarchical
   Type of Data-model:
     Relational: Data is stored in the form of tables. 
                 Allows Physical+ Logical+ PhysicalStorage independence
-
+    Entity-Relationship [Entity+Attribute] Data-model [An alternative to Relational
+                                                       Data-model]
+      Used as an tool to design relational-databases
+      In the database: Entities become Tables and
+                       Attributes become Columns
