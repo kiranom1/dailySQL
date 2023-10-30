@@ -673,6 +673,15 @@ Module1 - SQL and Relational Databases 101
                 Allows Physical+ Logical+ PhysicalStorage independence
     Entity-Relationship [Entity+Attribute] Data-model [An alternative to Relational
                                                        Data-model]
-      Used as an tool to design relational-databases
+      ER-diagram is used as an tool to design relational-databases
       In the database: Entities become Tables and
                        Attributes become Columns
+      Eg. Library-database
+
+*Types of Relationships [2.24/4.17]
+  Building-blocks of Relationships:
+    "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\BuildingBlocksOfRelationships.png"
+    "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\Entity-Relationship Diagram Example.png"
+      Attributes are connected to exactly one entity
+  Defining relationships between Entities:
+    Many authors writing a book; One author writing multiple books
