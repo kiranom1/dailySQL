@@ -685,3 +685,8 @@ Module1 - SQL and Relational Databases 101
       Attributes are connected to exactly one entity
   Defining relationships between Entities:
     Many authors writing a book; One author writing multiple books
+
+    One-to-one Relationship:
+      "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\One-to-one Relationship.png"
+      "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\Many-to-one Or One-to-many Relationship.png"
+      "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\Many-to-many Relationship.png"
