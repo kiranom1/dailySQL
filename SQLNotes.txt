@@ -665,7 +665,7 @@ Module1 - SQL and Relational Databases 101
     a relational-database
   RDBMS [Relational DataBase Management System]
 
-*Information and Data Models [5/5.44]
+*Information and Data Models [Watched 5.44]
   Type of Information-model:
     Hierarchical
   Type of Data-model:
@@ -678,7 +678,7 @@ Module1 - SQL and Relational Databases 101
                        Attributes become Columns
       Eg. Library-database
 
-*Types of Relationships [2.24/4.17]
+*Types of Relationships [Watched 4.17]
   Building-blocks of Relationships:
     "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\BuildingBlocksOfRelationships.png"
     "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\Entity-Relationship Diagram Example.png"
@@ -690,3 +690,6 @@ Module1 - SQL and Relational Databases 101
       "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\One-to-one Relationship.png"
       "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\Many-to-one Or One-to-many Relationship.png"
       "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\Many-to-many Relationship.png"
+
+*Mapping Entities to Tables [/2.17]
+  
