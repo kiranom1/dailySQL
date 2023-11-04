@@ -691,5 +691,10 @@ Module1 - SQL and Relational Databases 101
       "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\Many-to-one Or One-to-many Relationship.png"
       "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\Many-to-many Relationship.png"
 
-*Mapping Entities to Tables [/2.17]
-  
+*Mapping Entities to Tables [Watched 2.17]
+*Relational Model concepts [/3.56]
+  Relational model = [Relation + Sets]
+  Set can be:
+    Unordered collection of distinct elements
+    Items of same type
+    No order and no duplicates
