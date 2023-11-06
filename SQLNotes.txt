@@ -698,3 +698,11 @@ Module1 - SQL and Relational Databases 101
     Unordered collection of distinct elements
     Items of same type
     No order and no duplicates
+  Relation [Mathematical term for table] = Relation-Schema + Relation-Instance
+    Relation-schema = Name of the relation + Name and type of each column-attribute
+                    Eg. AUTHOR(AUTHOR_ID:char, lastname:varchar, firstname:varchar, 
+                              email:varchar, city:varchar, country:char)
+    Relation-Instance = Table [Row-Tuple + Column-Attribute]
+  Degree = Number of column-attributes in a relation-table
+  Cardinality = Number of rows-tuples
+  
