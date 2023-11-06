@@ -692,7 +692,7 @@ Module1 - SQL and Relational Databases 101
       "C:\Users\Administrator\Documents\dnpNewMachine\Databases\'Structured Query Language [SQL]'\Many-to-many Relationship.png"
 
 *Mapping Entities to Tables [Watched 2.17]
-*Relational Model concepts [/3.56]
+*Relational Model concepts [Watched 3.56]
   Relational model = [Relation + Sets]
   Set can be:
     Unordered collection of distinct elements
@@ -705,4 +705,3 @@ Module1 - SQL and Relational Databases 101
     Relation-Instance = Table [Row-Tuple + Column-Attribute]
   Degree = Number of column-attributes in a relation-table
   Cardinality = Number of rows-tuples
-  
