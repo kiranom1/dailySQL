@@ -705,3 +705,5 @@ Module1 - SQL and Relational Databases 101
     Relation-Instance = Table [Row-Tuple + Column-Attribute]
   Degree = Number of column-attributes in a relation-table
   Cardinality = Number of rows-tuples
+
+*
